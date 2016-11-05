@@ -1,9 +1,6 @@
 # Knowledge Base - Root
-URL:
-save_as: index.html
-Template: index
 
-Это моя база знаний. На данный момент в ней содержаться следующие разделы
+Это моя база знаний. Сюда я кладу различные заметки связанные с моей работой, как инженера по анализу данных.
 
 ### Python for Data Science
 
@@ -48,12 +45,10 @@ Template: index
     - [Управление пользователями](other/linux/user-management.md)
     - [Проброска порта через ssh туннель](other/linux/ssh-tunnels.md)
 * [Redis](other/redis.md)
+* [Latex - полезные ссылки](other/latex-links.md)
 * Mongo (pymongo)
 * [TMUX](other/tmux.md)
+* [Настройка среды для работы](other/setup_my_apps.md)
 * VIM
     - [Настройка mapping'а клавиш](other/vim/mappings.md)
-
-### Литература
-
-* [Литература](data-science/literature.md)
 
