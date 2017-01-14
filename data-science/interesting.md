@@ -7,6 +7,7 @@
 * [Генеративный алгоритм из слов в картинки](https://github.com/paarthneekhara/text-to-image)
 * [Интересный прикладной ML блог - District Data Labs](https://districtdatalabs.silvrback.com/)
 * [Материалы Illinois University по структурному обучению](http://cogcomp.cs.illinois.edu/page/tutorial.201602/)
+* [Хорошие материалы по Numpy и Scipy](http://www.scipy-lectures.org)
 
 ## Учебные курсы
 
@@ -22,3 +23,18 @@
 ## Библиотеки
 
 * [Prettyplotlib](http://blog.olgabotvinnik.com/prettyplotlib/)
+
+## Статьи
+
+* [Making Science of Model Selection](https://arxiv.org/pdf/1209.5111v1.pdf). Статья по оптимизации гиперпараметров. В авторах David Cox
+
+
+
+## Оптимизация гиперпараметров - инструменты
+
+* Spearmint (Python)
+* BayesOpt (C++ with Python and Matlab/Octave interfaces)
+* hyperopt (Python)
+* SMAC (Java)
+* REMBO (Matlab)
+* MOE (C++/Python)
